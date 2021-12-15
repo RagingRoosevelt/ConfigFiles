@@ -1,0 +1,42 @@
+{
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "workbench.iconTheme": "vscode-icons",
+
+    "editor.rulers": [
+        {"column": 79, "color":"#5a5a5a20"},
+        {"column": 80, "color":"#5a5a5a50"},
+        {"column": 120, "color":"#5a5a5a100"},
+    ],
+    "files.trimTrailingWhitespace": true,    // Enables whitespace trimming at file save time
+    "editor.multiCursorModifier": "ctrlCmd", // sets the multi-select trigger to ctrl+<click> on windows.
+
+    "editor.fontFamily": "Fira Code iScript", // Needed for font ligatures. https://github.com/kencrocken/FiraCodeiScript
+                                      // other good options:
+                                      //    - Fira Code: https://github.com/tonsky/FiraCode
+                                      //    - Monoid: https://github.com/larsenwork/monoid
+                                      //    - Hasklig: https://github.com/i-tu/Hasklig/
+                                      //    - Fixedsys Excelsior: https://github.com/kika/fixedsys
+                                      //    - Victor Mono: https://github.com/rubjo/victor-mono
+    "editor.fontLigatures": true, // Converts >= into ≥
+    "editor.tokenColorCustomizations": { // Causes certain keywords to use italic, useful with ligature font
+        "textMateRules": [
+            {
+                "scope": [
+                    "comment",
+                ],
+                "settings": {
+                    "fontStyle": "italic",
+                }
+            }
+        ]
+    },
+
+    "editor.wrappingIndent": "deepIndent", // Causes wrapped lines to indent +1 compared to parent
+    "editor.cursorBlinking": "expand", // Cursor blink style
+
+    "window.title": "${rootName}${separator}${activeEditorMedium}${dirty}", // Sets titlebar style
+    "editor.minimap.renderCharacters": false, // Shows blocks of color instead of characters for minimap (scroll assist)
+    "editor.minimap.showSlider": "always", // Shows current scroll region always
+    "editor.showFoldingControls": "always", // Always show code folding arrows
+}
