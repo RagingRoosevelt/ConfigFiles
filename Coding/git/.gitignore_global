@@ -1,0 +1,3 @@
+# Global .gitignore file
+*.egg-info
+*.code-workspace
