@@ -32,7 +32,7 @@
         ]
     },
 
-    "editor.wrappingIndent": "deepIndent", // Causes wrapped lines to indent +1 compared to parent
+    "editor.wrappingIndent": "deepIndent", // Causes wrapped lines to indent +2 compared to parent
     "editor.cursorBlinking": "expand", // Cursor blink style
 
     "window.title": "${rootName}${separator}${activeEditorMedium}${dirty}", // Sets titlebar style

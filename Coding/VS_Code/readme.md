@@ -3,7 +3,7 @@
 ## Extensions
 
 * General
-  * [Live Preview](vscode:extension/ms-vscode.live-server) ([http](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server))
+  * [Blockman - Highlight Nested Code Blocks](vscode:extension/leodevbro.blockman) ([http](https://marketplace.visualstudio.com/items?itemName=leodevbro.blockman))
   * [Markdown All in One](vscode:extension/yzhang.markdown-all-in-one) ([http](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one))
   * [vscode-icons](vscode:extension/vscode-icons-team.vscode-icons) ([http](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons))
   * [Visual Studio IntelliCode](vscode:extension/visualstudioexptteam.vscodeintellicode) ([http](https://marketplace.visualstudio.com/items?itemName=visualstudioexptteam.vscodeintellicode))
@@ -19,6 +19,10 @@
   * [Pylance](vscode:extension/ms-python.vscode-pylance) ([http](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance))
   * [Python](vscode:extension/ms-python.python) ([http](https://marketplace.visualstudio.com/items?itemName=ms-python.python))
   * [Python Docstring Generator](vscode:extension/njpwerner.autodocstring) ([http](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring))
+* Web
+  * [Live Preview](vscode:extension/ms-vscode.live-server) ([http](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server))
+  * [Thunder Client](vscode:extension/rangav.vscode-thunder-client) ([http](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client))
+  * [Vetur](vscode:extension/octref.vetur) ([http](https://marketplace.visualstudio.com/items?itemName=octref.vetur))
 
 ## Settings
 
