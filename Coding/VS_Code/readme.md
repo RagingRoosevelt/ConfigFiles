@@ -3,7 +3,7 @@
 ## Extensions
 
 * General
-  * [Live Preview](vscode:extension/ms-vscode.live-server) ([http](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server))
+  * [Blockman - Highlight Nested Code Blocks](vscode:extension/leodevbro.blockman) ([http](https://marketplace.visualstudio.com/items?itemName=leodevbro.blockman))
   * [Markdown All in One](vscode:extension/yzhang.markdown-all-in-one) ([http](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one))
   * [PostgreSQL](vscode:extension/ms-ossdata.vscode-postgresql) ([http](https://marketplace.visualstudio.com/items?itemName=ms-ossdata.vscode-postgresql))
   * [vscode-icons](vscode:extension/vscode-icons-team.vscode-icons) ([http](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons))
@@ -24,6 +24,9 @@
 * Web Dev
   * [HTML Boilerplate](vscode:extension/sidthesloth.html5-boilerplate) ([http](https://marketplace.visualstudio.com/items?itemName=sidthesloth.html5-boilerplate))
   * [JSON Tools](vscode:extension/eriklynd.json-tools) ([http](https://marketplace.visualstudio.com/items?itemName=eriklynd.json-tools))
+  * [Live Preview](vscode:extension/ms-vscode.live-server) ([http](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server))
+  * [Thunder Client](vscode:extension/rangav.vscode-thunder-client) ([http](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client))
+  * [Vetur](vscode:extension/octref.vetur) ([http](https://marketplace.visualstudio.com/items?itemName=octref.vetur))
 
 ## Settings
 
