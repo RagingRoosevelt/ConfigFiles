@@ -11,9 +11,12 @@
     "files.trimTrailingWhitespace": true,    // Enables whitespace trimming at file save time
     "editor.multiCursorModifier": "ctrlCmd", // sets the multi-select trigger to ctrl+<click> on windows.
 
-    "editor.fontFamily": "Fira Code iScript", // Needed for font ligatures. https://github.com/kencrocken/FiraCodeiScript
+    "editor.fontWeight": "1000",
+    "editor.fontSize": 15,
+    "editor.fontFamily": "Victor Mono", // Needed for font ligatures.
                                       // other good options:
                                       //    - Fira Code: https://github.com/tonsky/FiraCode
+                                      //    - Fira Code iScript: https://github.com/kencrocken/FiraCodeiScript
                                       //    - Monoid: https://github.com/larsenwork/monoid
                                       //    - Hasklig: https://github.com/i-tu/Hasklig/
                                       //    - Fixedsys Excelsior: https://github.com/kika/fixedsys
@@ -32,11 +35,24 @@
         ]
     },
 
-    "editor.wrappingIndent": "deepIndent", // Causes wrapped lines to indent +1 compared to parent
+    "editor.wrappingIndent": "deepIndent", // Causes wrapped lines to indent +2 compared to parent
     "editor.cursorBlinking": "expand", // Cursor blink style
 
     "window.title": "${rootName}${separator}${activeEditorMedium}${dirty}", // Sets titlebar style
     "editor.minimap.renderCharacters": false, // Shows blocks of color instead of characters for minimap (scroll assist)
     "editor.minimap.showSlider": "always", // Shows current scroll region always
     "editor.showFoldingControls": "always", // Always show code folding arrows
+
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "python.languageServer": "Default",
+    "jupyter.askForKernelRestart": false,
+    "notebook.showFoldingControls": "always",
+
+    "gitblame.statusBarMessageFormat": "Git: ${author.name} ( ${time.ago} ) - ${commit.summary}",
+
+    "AREPL.pythonPath": "python",
+
+    "autoDocstring.docstringFormat": "sphinx",
 }
