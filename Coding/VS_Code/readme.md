@@ -6,6 +6,7 @@
   * [Blockman - Highlight Nested Code Blocks](vscode:extension/leodevbro.blockman) ([http](https://marketplace.visualstudio.com/items?itemName=leodevbro.blockman))
   * [Markdown All in One](vscode:extension/yzhang.markdown-all-in-one) ([http](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one))
   * [PostgreSQL](vscode:extension/ms-ossdata.vscode-postgresql) ([http](https://marketplace.visualstudio.com/items?itemName=ms-ossdata.vscode-postgresql))
+  * [Todo Tree](vscode:extension/Gruntfuggly.todo-tree) ([http](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree))
   * [vscode-icons](vscode:extension/vscode-icons-team.vscode-icons) ([http](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons))
   * [Visual Studio IntelliCode](vscode:extension/visualstudioexptteam.vscodeintellicode) ([http](https://marketplace.visualstudio.com/items?itemName=visualstudioexptteam.vscodeintellicode))
 * Git
