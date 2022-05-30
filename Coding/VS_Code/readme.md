@@ -27,6 +27,11 @@
   * [Live Preview](vscode:extension/ms-vscode.live-server) ([http](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server))
   * [Thunder Client](vscode:extension/rangav.vscode-thunder-client) ([http](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client))
   * [Vetur](vscode:extension/octref.vetur) ([http](https://marketplace.visualstudio.com/items?itemName=octref.vetur))
+* Database
+  * [PostgreSQL](vscode:extension/ms-ossdata.vscode-postgresql) ([http](https://marketplace.visualstudio.com/items?itemName=ms-ossdata.vscode-postgresql))
+* Other
+  * [OpenSCAD](vscode:extension/antyos.openscad) ([http](https://marketplace.visualstudio.com/items?itemName=antyos.openscad))
+  * [OpenSCAD](vscode:extension/Leathong.openscad-language-support) ([http](https://marketplace.visualstudio.com/items?itemName=Leathong.openscad-language-support)) (improved?)
 
 ## Settings
 

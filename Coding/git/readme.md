@@ -1,5 +1,12 @@
 # Git
 
+## Git Config
+
+Copy to:
+* Windows: `%USERPROFILE%\.gitconfig`
+* Linux: `~/.gitconfig`
+* MacOS: `~/.gitconfig`
+
 ## Global `.gitignore`
 
 Copy to:
