@@ -95,4 +95,4 @@ M84                 ;(Turn off stepper motors.)
 
 ## Replacement Control Board: SKR Mini E3 V3.0
 
-[Marlin Modifications](./marlin_for_skr_mini_v3.md)
+[Marlin Modifications](./skr_mini_e3_v3.md)
