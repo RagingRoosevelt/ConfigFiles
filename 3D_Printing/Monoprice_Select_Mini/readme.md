@@ -83,16 +83,20 @@ M84                 ;(Turn off stepper motors.)
 ## Useful 3D Printed Modifications
 
 * [Filament Guide, M6 Bowden Adapter](https://www.printables.com/model/183102)
-* [40mm Cooling Shroud Replacement](https://www.thingiverse.com/thing:2429054) - compatible w/ stock clips
+* 40mm Hotend Cooling
+    * [40mm Combined Cooling Shroud Replacement](https://www.thingiverse.com/thing:2429054) -- Medicore at part cooling
+    * [40mm Hotend Cooling with 5015 Part Cooling](https://www.thingiverse.com/thing:3731400) -- Compatible with v2
+    * [40mm Hotend Cooling with 5015 Part Cooling](https://www.thingiverse.com/thing:4978028) -- Compatible with v1
 * Bed
     * [Bed Leveling Thumbscrews](https://www.thingiverse.com/thing:4626595)
     * [Bed cable brace](https://www.thingiverse.com/thing:2764036)
 * Side Panels
     * [Side Panel w/ Fan & Cable re-route](https://www.printables.com/model/171177)
     * [Side Panel w/ rear cable re-route](https://www.printables.com/model/12710)
-* Z-Axis Endstop Spacers
-    * [Endstop Re-Locate & Screw Adjuster](https://www.thingiverse.com/thing:2217149)
+* Endstop Relocation
+    * [Z Endstop Relocate & Screw Adjuster](https://www.thingiverse.com/thing:2217149)
+    * [X Endstop Relocate & Gantry Cover Delete](https://www.thingiverse.com/thing:1761961)
 
 ## Replacement Control Board: SKR Mini E3 V3.0
 
-[Marlin Modifications](./skr_mini_e3_v3.md)
+[Conversion Guide](./skr_mini_e3_v3.md)
