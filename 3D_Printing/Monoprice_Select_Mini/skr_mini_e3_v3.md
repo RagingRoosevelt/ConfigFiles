@@ -30,6 +30,18 @@ temp is over `EXTRUDER_AUTO_FAN_TEMPERATURE`.
 In the following blocks, changes that might be made are commented out, changes
 I actually made are not.
 
+### Useful Info
+
+If you want to check how pins are set up, look at `Marlin/src/pins/stm32g0/pins_BTT_SKR_MINI_E3_V3_0.h`
+
+By default, the expected fan pin setup is
+
+* `FAN_PIN = PC6 // Fan 0` -- Part Cooling Fan
+* `FAN1_PIN = PC7 // Fan 1` -- Hotend Fan
+* `FAN2_PIN = PB15 // Fan 2` -- Controller Fan Pin
+
+
+
 ### Configuration.h
 
 ```C++
@@ -79,6 +91,9 @@ I actually made are not.
 #define SD_SPI_SPEED SPI_QUARTER_SPEED
 #define SD_DETECT_STATE HIGH
 
-// #define E0_AUTO_FAN_PIN PC7
-// #define EXTRUDER_AUTO_FAN_TEMPERATURE 50
+// These are probably already set.  Marlin will complain if you try to
+// change E0 Auto Pin to PC6 which is set up as FAN 0 or the part
+// cooling fan.
+#define E0_AUTO_FAN_PIN PC7 // PC7 is set up in the pins file as FAN 1
+#define EXTRUDER_AUTO_FAN_TEMPERATURE 50 // If you want the hotend fan to kick in at a different temp, change this
 ```

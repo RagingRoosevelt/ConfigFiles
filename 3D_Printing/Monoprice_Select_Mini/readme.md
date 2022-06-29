@@ -36,7 +36,7 @@ G92 E0              ;(Zero the extruder)
 ```
 G0 Z120 Y120 X110   ;(Move to the top back)
 G92 E0              ;(reset the extruder position)
-G1 E-30             ;(retract a bunch)
+;G1 E-30             ;(retract a bunch)
 M104 S0             ;(turn off hotend/extruder heater)
 M140 S0             ;(turn off bed heater)
 G92 E10             ;(Set extruder to 10)
