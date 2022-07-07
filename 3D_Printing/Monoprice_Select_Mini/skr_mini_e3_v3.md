@@ -97,3 +97,10 @@ By default, the expected fan pin setup is
 #define E0_AUTO_FAN_PIN PC7 // PC7 is set up in the pins file as FAN 1
 #define EXTRUDER_AUTO_FAN_TEMPERATURE 50 // If you want the hotend fan to kick in at a different temp, change this
 ```
+
+### `Configuration.h` adjustments for Micro Swiss Bowden Dual Gear Extruder
+
+```c++
+#define INVERT_E0_DIR true
+#define DEFAULT_AXIS_STEPS_PER_UNIT   { 93, 93, 1097.50, 130 }
+```
