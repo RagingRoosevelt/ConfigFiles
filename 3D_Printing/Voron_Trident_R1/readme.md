@@ -15,10 +15,13 @@
       - [Wiring Harness](#wiring-harness)
   - [Community Mods](#community-mods)
 
+
 ## Fysetc Kit Review & Thoughts
 ### Expect to self-source
 Be aware that the Fysetc kit doesn't come with thread locker or lube which you
-should self-source.
+will need to self-source.  The BOM from the Fysetc kit is [here][Fysetc BOM].
+
+[Fysetc BOM]: https://github.com/FYSETC/FYSETC-Voron-Trident/blob/c7aa8a3367e8e34acbb511fb117d201eb7b6c6d8/BOM.md
 
 ### Missing components
 In my kit, the following were missing (and specifically called out in the
@@ -37,6 +40,11 @@ but I shouldn't have had to.
 couldn't be installed without modification.
 
     ![Bent stepper driver header](./review_images/bent_spider_header.jpg)
+
+* BOM calls for a 5x30mm shaft for the Z probe.  My kit seems to have come with
+a 5x35mm shaft.
+
+    ![5mm z probe rod is too long](review_images/z_probe_rod_5mm.jpg)
 
 ### Part selection & quality
 
@@ -57,10 +65,6 @@ intended to be used in a way that conflicted with the assembly guide.  It would
 be a lot nicer if the harness matched what the Voron team was expecting people
 to do.  Or at least, just provide spools of uncut wire and the crimps needed to
 follow the BOM.
-
-
-
-
 
 ## Community Mods
 
