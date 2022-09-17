@@ -40,4 +40,4 @@
   * Putty
   * SQLiteStudio
   * VirtualBox
-  * Visual Stuido Code
+  * Visual Studio Code
