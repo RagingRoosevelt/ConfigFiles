@@ -4,7 +4,7 @@
 Set launch options to `-novid -window -noborder -particles 1 -nostartupsound`
 
 ## Key Binds
-Copy [autoexec.cfg](./autoexec.cfg) to `<steam folder>\steamapps\common\Team Fortress 2\tf\cfg\`
+Copy [autoexec.cfg](./autoexec.cfg) and the rest of the `.cfg` files to `<steam folder>\steamapps\common\Team Fortress 2\tf\cfg\`
 
 ## Useful Console Commands
 * `alias` - list current aliases
