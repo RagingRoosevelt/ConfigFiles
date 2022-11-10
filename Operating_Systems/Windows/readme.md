@@ -17,11 +17,13 @@
 * Communication
   * Discord
 * Multimedia
-  * FileBot
-  * HandBrake
+  * FileBot - Movie & TV Show file renamer
+  * HandBrake - Video re-encoder
+  * MKVToolNix - MKV file remuxing
   * qBittorrent
-  * Spotify
-  * VLC
+  * Spotify - Music streaming service
+  * Tidal - Music streaming service
+  * VLC - Video player
 * Gaming
   * Epic Game Store
   * Fantasy Grounds - Virtual D&D
